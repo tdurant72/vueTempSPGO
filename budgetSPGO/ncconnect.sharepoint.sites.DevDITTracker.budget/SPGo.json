@@ -1,0 +1,9 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://ncconnect.sharepoint.com/sites/DevDITTracker",
+    "publishingScope": "SaveOnly",
+    "authenticationType": "Digest",
+    "remoteFolders":[
+        "/Style Library/"
+    ]
+}
